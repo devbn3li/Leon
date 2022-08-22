@@ -1,10 +1,10 @@
 /* start variables */
 :root {
-    --main-color: #10bac7;
+    --main-color: #10cab7;
     --color-two: #2c4755;
     --section-padding: 60px;
     --section-background: #f6f6f6;
-    --main-duration: 0.3s
+    --main-duration: 0.5s
 }
 
 /* end variables */
